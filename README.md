@@ -11,10 +11,13 @@ The diverse range of tutorials not only solidified my understanding of Pandas bu
 
  ## Day 01: Pandas in 20 minutes My crash learning! it'z 20% of pandas!
 
- `` Dataset Used: telco_churn.csv `` <br> <br>
+`` Dataset Used: telco_churn.csv `` 
+`` My Work: Pandas for Data Science.ipynb ``
+`` Output: output.csv ``
+ <br> <br>
   My Resource / Learning material:
-*[``YouTube link``](https://youtu.be/tRKeLrwfUgU?si=Q0WD4FP84cBRW1Sz)* 
-*[``GitHub repo``](https://github.com/nicknochnack/Pandasin20Minutes)* 
+*[`` YouTube link ``](https://youtu.be/tRKeLrwfUgU?si=Q0WD4FP84cBRW1Sz)* 
+*[`` GitHub repo ``](https://github.com/nicknochnack/Pandasin20Minutes)* 
 
  
 I have completed the "Pandas Crash Course" by Nicolas Renotte, a fast-paced and thorough introduction to the Pandas library.
