@@ -9,7 +9,7 @@ The diverse range of tutorials not only solidified my understanding of Pandas bu
 - Pandas
 - JupyterNotebook
 
- ## Day 01: Pandas in 20 minutes My crash learning! it'z 20% of pandas!
+ ## Task 01: Pandas in 20 minutes My crash learning! it'z 20% of pandas!
 
 `` Dataset Used: telco_churn.csv `` 
 `` My Work: Pandas for Data Science.ipynb ``
