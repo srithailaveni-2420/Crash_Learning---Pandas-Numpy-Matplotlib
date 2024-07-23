@@ -9,7 +9,7 @@ The diverse range of tutorials not only solidified my understanding of Pandas bu
 - Pandas
 - JupyterNotebook
 
- ## Task 01: Pandas in 20 minutes My crash learning! it'z 20% of pandas!
+## Task 01: Pandas in 20 minutes My crash learning! it'z 20% of pandas!
 
 `` Dataset Used: telco_churn.csv `` 
 `` My Work: Pandas for Data Science.ipynb ``
@@ -28,4 +28,14 @@ what's covered by Nicolas Renotte,
 2. Everything you need to get up and running!
 3. Crash course for getting started with tabular data.
 
+## Task 02: Complete Python Pandas Data Science Tutorial! (2024 Updated Edition)
+`` Dataset Used : pokemon.csv, pokemon_data.txt, pokemon.xlsx `` 
+`` My Work: Python Pandas Data Science Tutorial.ipynb ``
 
+
+I have completed the "Complete Python Pandas Data Science Tutorial!" by Keith Galli.
+
+<br>
+  My Resource / Learning material:
+*[`` YouTube link ``](https://youtu.be/2uvysYbKdjM?si=GCVOSJgiNSoOtNZ0)* 
+*[`` GitHub repo ``](https://github.com/KeithGalli/complete-pandas-tutorial)* 
