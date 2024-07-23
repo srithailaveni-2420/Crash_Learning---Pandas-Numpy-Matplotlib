@@ -9,7 +9,7 @@
 ## Task 01: Pandas in 20 minutes My crash learning! it'z 20% of pandas!
 
 `` Dataset Used: telco_churn.csv `` 
-`` My Work: Pandas for Data Science.ipynb ``
+`` My Work: Pandas_for_Data_Science.ipynb ``
 `` Output: output.csv ``
  <br>
 #### Resource / Learning material:
